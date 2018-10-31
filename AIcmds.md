@@ -155,7 +155,18 @@ zen7 8D
 zen7 9D  
 `-t1 -r20 -s6000 -n3 -o1.0 -p0.75`
 
+## Leela 0.11 ##
+Leela 0.11 1.6k  
+`-p1600 -g -t1 --noponder`
+
 ## Leela Zero 0.15 ##
 
 LZ xxx  
 `-p1600 -g -t1 -w xxxx.gz --noponder`
+
+LZ xxx 0.4k  
+`-p400 -g -t1 -w xxxx.gz --noponder`
+
+LZ xxx 0.1k  
+`-p100 -g -t1 -w xxxx.gz --noponder`
+
