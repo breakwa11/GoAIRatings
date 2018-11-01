@@ -159,6 +159,9 @@ zen7 9D
 Leela 0.11 1.6k  
 `-p1600 -g -t1 --noponder`
 
+Leela 0.11 6.4k  
+`-p6400 -g -t1 --noponder`
+
 ## Leela Zero 0.15 ##
 
 LZ xxx  
