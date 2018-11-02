@@ -167,8 +167,14 @@ Leela 0.11 6.4k
 LZ xxx  
 `-p1600 -g -t1 -w xxxx.gz --noponder`
 
+LZ xxx 0.8k  
+`-p800 -g -t1 -w xxxx.gz --noponder`
+
 LZ xxx 0.4k  
 `-p400 -g -t1 -w xxxx.gz --noponder`
+
+LZ xxx 0.2k  
+`-p200 -g -t1 -w xxxx.gz --noponder`
 
 LZ xxx 0.1k  
 `-p100 -g -t1 -w xxxx.gz --noponder`

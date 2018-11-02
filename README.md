@@ -10,73 +10,78 @@ Update frequency: 1 ~ 2 day
 
 Current fixed point: zen7 1D == 1800
 
-    Total games: 6726
+    Total games: 6952
       ELO	Games	AI
-     3745	  70	LZ 117
-     3554	  31	LZ 117 0.8k
-     3515	  51	LZ 108
-     3515	  62	LZ 111
-     3499	  72	LZ 116
-     3432	  43	LZ 117 0.4k
-     3389	  58	LZ 105
-     3278	  55	LZ 102
-     3273	  48	LZ 098
-     3179	  64	LZ 095
-     3150	 125	zen7 9D
-     3147	  65	LZ 092
-     3071	 138	zen7 8D
-     2979	  96	zen7 7D
-     2858	  65	LZ 081
-     2845	  64	zen7 6D+
-     2839	  20	LZ 117 0.1k
-     2790	 110	zen7 6D
-     2783	  35	zen6 7D
-     2778	  26	Leela 0.11 6.4k
-     2767	  68	zen7 6D-
-     2678	  32	Leela 0.11 1.6k
-     2589	 258	zen6 6D
-     2568	  64	LZ 071
-     2414	  96	zen7 5D
-     2383	 397	zen6 5D
-     2231	 131	zen7 4D
-     2176	 385	zen6 4D
-     2073	 135	zen7 3D
-     2023	 372	zen6 3D+
-     1892	 460	zen6 2D
-     1867	 433	zen6 3D
-     1848	 138	zen7 2D
-     1836	  40	pachi 1k
-     1800	 152	zen7 1D
-     1702	 469	zen6 1D
-     1662	 140	zen7 1k
-     1570	 137	zen7 2k
-     1562	 466	zen6 1D-
-     1521	  33	pachi nodcnn 5k
-     1501	 433	zen6 1k+
-     1360	 488	zen6 1k
-     1354	 138	zen7 3k
-     1223	 479	zen6 2k
-     1167	 132	zen7 4k
-     1113	 419	zen6 3k
-     1068	  40	pachi nodcnn 1k
-     1023	 129	zen7 5k
+     3863	  68	LZ 122
+     3815	  85	LZ 117
+     3604	  50	LZ 117 0.8k
+     3533	  81	LZ 111
+     3532	  85	LZ 116
+     3522	  65	LZ 108
+     3473	  62	LZ 117 0.4k
+     3412	  74	LZ 105
+     3317	  72	LZ 102
+     3227	  61	LZ 098
+     3173	 137	zen7 9D
+     3170	  78	LZ 095
+     3167	  77	LZ 092
+     3102	 148	zen7 8D
+     3025	  25	LZ 117 0.1k
+     2975	 107	zen7 7D
+     2864	  67	zen7 6D+
+     2853	  69	LZ 081
+     2789	 116	zen7 6D
+     2783	  32	Leela 0.11 6.4k
+     2777	  74	zen7 6D-
+     2736	  43	zen6 7D
+     2610	  41	Leela 0.11 1.6k
+     2589	 261	zen6 6D
+     2589	  71	LZ 071
+     2408	  97	zen7 5D
+     2383	 398	zen6 5D
+     2243	 135	zen7 4D
+     2176	 386	zen6 4D
+     2077	 138	zen7 3D
+     2023	 375	zen6 3D+
+     1890	 461	zen6 2D
+     1867	 434	zen6 3D
+     1849	 139	zen7 2D
+     1803	  45	pachi 1k
+     1800	 153	zen7 1D
+     1700	 469	zen6 1D
+     1653	 143	zen7 1k
+     1563	 468	zen6 1D-
+     1561	 141	zen7 2k
+     1560	  37	pachi nodcnn 5k
+     1500	 434	zen6 1k+
+     1362	 488	zen6 1k
+     1353	 140	zen7 3k
+     1226	 483	zen6 2k
+     1173	 134	zen7 4k
+     1113	 420	zen6 3k
+     1058	  45	pachi nodcnn 1k
      1022	 430	gnugo 3.8 lvX
-     1021	 435	zen6 4k
-      966	 455	zen6 5k
+     1022	 129	zen7 5k
+     1021	 437	zen6 4k
+      965	 457	zen6 5k
       887	 454	zen6 6k
-      887	 136	zen7 6k
-      884	 442	gnugo 3.8 lv1
-      807	 420	zen6 7k
-      756	 447	zen6 7k?
+      885	 443	gnugo 3.8 lv1
+      882	 140	zen7 6k
+      808	 422	zen6 7k
+      757	 449	zen6 7k?
       731	 133	zen7 7k
-      580	 433	zen6 8k?
-      363	 276	aya 6.34
-      126	 150	zen7 8k
-      -75	 161	zen7 9k
-     -148	 149	zen7 10k
-     -196	 186	zen7 11k
-     -404	 177	zen7 12k
-     -510	 141	zen7 13k
+      581	 433	zen6 8k?
+      364	 276	aya 6.34
+      126	 151	zen7 8k
+       55	  20	LZ 021 0.1k
+      -77	 163	zen7 9k
+     -113	  17	LZ 019 0.1k
+     -116	  20	LZ 020 0.1k
+     -146	 158	zen7 10k
+     -185	 188	zen7 11k
+     -374	  23	LZ 018 0.1k
+     -396	 185	zen7 12k
+     -488	 147	zen7 13k
 
 Kyu and dan ranks
 
