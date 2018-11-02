@@ -76,10 +76,10 @@ zen6 5D
 `-z6 -t1 -s3000 -n1 -o0.5 -p1`
 
 zen6 6D  
-`-z6 -t1 -s3000 -n1 -o1 -p1`
+`-z6 -r15 -t1 -s3000 -n1 -o1 -p1`
 
 zen6 7D  
-`-z6 -t1 -s12000 -n1 -o1 -p1`
+`-z6 -r15 -t1 -s12000 -n1 -o1 -p1`
 
 ## zen7 (gtp4zen) ##
 
@@ -162,7 +162,7 @@ Leela 0.11 1.6k
 Leela 0.11 6.4k  
 `-p6400 -g -t1 --noponder`
 
-## Leela Zero 0.15 ##
+## Leela Zero 0.16 ##
 
 LZ xxx  
 `-p1600 -g -t1 -w xxxx.gz --noponder`
@@ -178,4 +178,9 @@ LZ xxx 0.2k
 
 LZ xxx 0.1k  
 `-p100 -g -t1 -w xxxx.gz --noponder`
+
+#### LeelaZero with Leela Master network ####
+
+LZ LM 10BE08 (10blocks,E08)  
+`-p1600 -g -t1 -w LeelaMaster_E08.txt --noponder`
 
