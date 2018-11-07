@@ -1,15 +1,15 @@
 ## aya 6.34 ##
 
 aya 6.34  
-`--mode gtp`
+`--mode gtp --chinese-rule`
 
 ## gnugo 3.8 ##
 
 gnugo 3.8 lv1  
-`--mode gtp --level 1`
+`--mode gtp --chinese-rules --level 1`
 
 gnugo 3.8 lvX  
-`--mode gtp --level 10`
+`--mode gtp --chinese-rules --level 10`
 
 ## pachi 12.10 ##
 
@@ -21,6 +21,12 @@ pachi nodcnn 1k
 
 pachi nodcnn 5k  
 `--nodcnn -t =5000:15000 threads=1`
+
+## MoGo Windows ##
+
+MoGo release3 1k  
+`--19 --chinese-rules --nbTotalSimulations 1000`  
+download: [http://www.godrago.net/Engines.htm](http://www.godrago.net/Engines.htm)
 
 ## zen6 (gtp4zen) ##
 
@@ -59,6 +65,9 @@ zen6 1D-
 
 zen6 1D  
 `-z6 -t1 -s1500 -n0 -o0.8 -p0.9`
+
+zen6 1D+  
+`-z6 -t1 -s1500 -n0 -o0.9 -p0.9`
 
 zen6 2D  
 `-z6 -t1 -s2000 -n0 -o1 -p1`
@@ -179,8 +188,26 @@ LZ xxx 0.2k
 LZ xxx 0.1k  
 `-p100 -g -t1 -w xxxx.gz --noponder`
 
+LZ xxx 3.2k  
+`-p3200 -g -t1 -w xxxx.gz --noponder`
+
 #### LeelaZero with Leela Master network ####
 
 LZ LM 10BE08 (10blocks,E08)  
 `-p1600 -g -t1 -w LeelaMaster_E08.txt --noponder`
 
+#### LeelaZero with ELF OpenGo network ####
+
+LZ ELF v0  
+`-p1600 -g -t1 -w elf_converted_weights_62b5417b.txt --noponder`
+
+LZ ELF v1  
+`-p1600 -g -t1 -w elf_converted_weights_d13c4099.txt --noponder`
+
+## Leela Zero 0.15 ##
+
+#### LeelaZero (mod) with PhoenixGo network ####
+
+LZ PhoenixGo v1  
+`-p1600 -g -t1 -w PhoenixGo_v1.txt --noponder`  
+repo: [https://github.com/yenw/LeelaZero_PhoenixGo](https://github.com/yenw/LeelaZero_PhoenixGo) version: v2_lizzie
