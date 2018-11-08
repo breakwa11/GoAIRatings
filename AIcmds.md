@@ -188,6 +188,9 @@ LZ xxx 0.2k
 LZ xxx 0.1k  
 `-p100 -g -t1 -w xxxx.gz --noponder`
 
+LZ xxx 0.1k (xxx < 024)  
+`-p100 -r1 -g -t1 -w xxxx.gz --noponder`
+
 LZ xxx 3.2k  
 `-p3200 -g -t1 -w xxxx.gz --noponder`
 
