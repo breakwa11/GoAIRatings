@@ -13,14 +13,38 @@ gnugo 3.8 lvX
 
 ## pachi 12.10 ##
 
+pachi 3k  
+`-t =3000:9000 threads=1`
+
 pachi 1k  
 `-t =1000:3000 threads=1`
 
 pachi nodcnn 1k  
 `--nodcnn -t =1000:3000 threads=1`
 
+pachi nodcnn 3k  
+`--nodcnn -t =3000:9000 threads=1`
+
 pachi nodcnn 5k  
 `--nodcnn -t =5000:15000 threads=1`
+
+## fuego 1.1 ##
+
+fuego 1.1 5M  
+`--config config.txt`
+
+    uct_param_player reuse_subtree 1
+    uct_param_search number_threads 1
+    uct_param_search max_nodes 5000000
+    uct_param_search prune_full_tree 0
+
+fuego 1.1 1M  
+`--config config.txt`
+
+    uct_param_player reuse_subtree 1
+    uct_param_search number_threads 1
+    uct_param_search max_nodes 1000000
+    uct_param_search prune_full_tree 0
 
 ## MoGo Windows ##
 
@@ -95,7 +119,7 @@ zen6 7D
 zen7 13k  
 `-t1 -r3 -s200 -n0 -o4.0 -p0.2`
 
-zen7 12k
+zen7 12k  
 `-t1 -r3 -s200 -n0 -o3.0 -p0.25`
 
 zen7 11k  
