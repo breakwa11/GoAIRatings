@@ -203,6 +203,18 @@ Leela 0.11 6.4k
 LZ xxx  
 `-p1600 -g -t1 -w xxxx.gz --noponder`
 
+LZ xxx (040 < xxx <= 057)  
+`-p1600 -r5 -g -t1 -w xxxx.gz --noponder`
+
+LZ xxx (xxx <= 040)  
+`-p1600 -r3 -g -t1 -w xxxx.gz --noponder`
+
+LZ xxx 3.2k  
+`-p3200 -g -t1 -w xxxx.gz --noponder`
+
+LZ xxx 1.2k  
+`-p3200 -g -t1 -w xxxx.gz --noponder`
+
 LZ xxx 0.8k  
 `-p800 -g -t1 -w xxxx.gz --noponder`
 
@@ -218,13 +230,15 @@ LZ xxx 0.1k
 LZ xxx 0.1k (xxx < 024)  
 `-p100 -r1 -g -t1 -w xxxx.gz --noponder`
 
-LZ xxx 3.2k  
-`-p3200 -g -t1 -w xxxx.gz --noponder`
-
 #### LeelaZero with Leela Master network ####
 
 LZ LM 10BE08 (10blocks,E08)  
 `-p1600 -g -t1 -w LeelaMaster_E08.txt --noponder`
+
+LZ LM 15BGX78 (15blocks,GX78)  
+`-p1600 -g -t1 -w LeelaMaster_GX78.txt --noponder`
+
+Leela Master networks from [https://github.com/pangafu/LeelaMasterWeight](https://github.com/pangafu/LeelaMasterWeight)
 
 #### LeelaZero with ELF OpenGo network ####
 
