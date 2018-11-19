@@ -192,6 +192,15 @@ zen7 9D+
 `-t1 -r20 -T180 -s25000 -n3 -o1.0 -p0.75`
 
 ## Leela 0.11 ##
+Leela 0.11 0.1k  
+`-p100 -g -t1 --noponder`
+
+Leela 0.11 0.5k  
+`-p500 -g -t1 --noponder`
+
+Leela 0.11 1.0k  
+`-p1000 -g -t1 --noponder`
+
 Leela 0.11 1.6k  
 `-p1600 -g -t1 --noponder`
 
@@ -213,7 +222,7 @@ LZ xxx 3.2k
 `-p3200 -g -t1 -w xxxx.gz --noponder`
 
 LZ xxx 1.2k  
-`-p3200 -g -t1 -w xxxx.gz --noponder`
+`-p1200 -g -t1 -w xxxx.gz --noponder`
 
 LZ xxx 0.8k  
 `-p800 -g -t1 -w xxxx.gz --noponder`
@@ -229,6 +238,15 @@ LZ xxx 0.1k
 
 LZ xxx 0.1k (xxx < 024)  
 `-p100 -r1 -g -t1 -w xxxx.gz --noponder`
+
+LZ xxx 0.06k (xxx < 024)  
+`-p60 -r1 -g -t1 -w xxxx.gz --noponder`
+
+LZ xxx 0.04k (xxx < 024)  
+`-p40 -r1 -g -t1 -w xxxx.gz --noponder`
+
+LZ xxx 0.01k (xxx < 024)  
+`-p10 -r1 -g -t1 -w xxxx.gz --noponder`
 
 #### LeelaZero with Leela Master network ####
 
