@@ -52,6 +52,25 @@ MoGo release3 1k
 `--19 --chinese-rules --nbTotalSimulations 1000`  
 download: [http://www.godrago.net/Engines.htm](http://www.godrago.net/Engines.htm)
 
+## RN 4.32 ##
+
+RN4.32 0.8k  
+`--playout 800 --reuse-subtree --thread 1 --no-debug`
+
+RN4.32 0.4k  
+`--playout 400 --reuse-subtree --thread 1 --no-debug`
+
+RN4.32 0.3k  
+`--playout 300 --reuse-subtree --thread 1 --no-debug`
+
+RN4.32 0.2k  
+`--playout 200 --reuse-subtree --thread 1 --no-debug`
+
+RN4.32 0.1k  
+`--playout 100 --reuse-subtree --thread 1 --no-debug`
+
+Github: [https://github.com/zakki/Ray](https://github.com/zakki/Ray)
+
 ## zen6 (gtp4zen) ##
 
 zen6 8k?  
@@ -250,26 +269,43 @@ LZ xxx 0.01k (xxx < 024)
 
 #### LeelaZero with Leela Master network ####
 
-LZ LM 10BE08 (10blocks,E08)  
+LZ LM 10BE08 (128x10blocks,E08)  
 `-p1600 -g -t1 -w LeelaMaster_E08.txt --noponder`
 
-LZ LM 15BGX78 (15blocks,GX78)  
+LZ LM 15BGX78 (192x15blocks,GX78)  
 `-p1600 -g -t1 -w LeelaMaster_GX78.txt --noponder`
+
+LZ LM 15BGX88 (192x15blocks,GX88)  
+`-p1600 -g -t1 -w LeelaMaster_GX88.txt --noponder`
 
 Leela Master networks from [https://github.com/pangafu/LeelaMasterWeight](https://github.com/pangafu/LeelaMasterWeight)
 
+#### LeelaZero with ZQ network ####
+
+LZ ZQ X2 (192x15blocks)  
+`-p1600 -g -t1 -w ZQ15B-X2.gz --noponder`
+
+LZ ZQ G5 (192x15blocks)  
+`-p1600 -g -t1 -w ZQ-G5.gz --noponder`
+
+LZ ZQ i8 (128x10blocks)  
+`-p1600 -g -t1 -w ZQ-i8.gz --noponder`
+
+LZ ZQ F1 (64x5blocks)  
+`-p1600 -g -t1 -w ZQ1-F1.gz --noponder`
+
 #### LeelaZero with ELF OpenGo network ####
 
-LZ ELF v0  
+LZ ELF v0 (224x20blocks)  
 `-p1600 -g -t1 -w elf_converted_weights_62b5417b.txt --noponder`
 
-LZ ELF v1  
+LZ ELF v1 (224x20blocks)  
 `-p1600 -g -t1 -w elf_converted_weights_d13c4099.txt --noponder`
 
 ## Leela Zero 0.15 ##
 
 #### LeelaZero (mod) with PhoenixGo network ####
 
-LZ PhoenixGo v1  
+LZ PhoenixGo v1 (256x19blocks)  
 `-p1600 -g -t1 -w PhoenixGo_v1.txt --noponder`  
 repo: [https://github.com/yenw/LeelaZero_PhoenixGo](https://github.com/yenw/LeelaZero_PhoenixGo) version: v2_lizzie
