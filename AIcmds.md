@@ -3,31 +3,6 @@
 aya 6.34  
 `--mode gtp --chinese-rule`
 
-## gnugo 3.8 ##
-
-gnugo 3.8 lv1  
-`--mode gtp --chinese-rules --level 1`
-
-gnugo 3.8 lvX  
-`--mode gtp --chinese-rules --level 10`
-
-## pachi 12.10 ##
-
-pachi 3k  
-`-t =3000:9000 threads=1`
-
-pachi 1k  
-`-t =1000:3000 threads=1`
-
-pachi nodcnn 1k  
-`--nodcnn -t =1000:3000 threads=1`
-
-pachi nodcnn 3k  
-`--nodcnn -t =3000:9000 threads=1`
-
-pachi nodcnn 5k  
-`--nodcnn -t =5000:15000 threads=1`
-
 ## fuego 1.1 ##
 
 fuego 1.1 5M  
@@ -46,11 +21,139 @@ fuego 1.1 1M
     uct_param_search max_nodes 1000000
     uct_param_search prune_full_tree 0
 
+## gnugo 3.8 ##
+
+gnugo 3.8 lv1  
+`--mode gtp --chinese-rules --level 1`
+
+gnugo 3.8 lvX  
+`--mode gtp --chinese-rules --level 10`
+
+## Leela 0.11 ##
+Leela 0.11 0.1k  
+`-p100 -g -t1 --noponder`
+
+Leela 0.11 0.5k  
+`-p500 -g -t1 --noponder`
+
+Leela 0.11 1.0k  
+`-p1000 -g -t1 --noponder`
+
+Leela 0.11 1.6k  
+`-p1600 -g -t1 --noponder`
+
+Leela 0.11 6.4k  
+`-p6400 -g -t1 --noponder`
+
+## Leela Zero 0.15 ##
+
+#### LeelaZero (mod) with PhoenixGo network ####
+
+LZ PhoenixGo v1 (256x19blocks)  
+`-p1600 -g -t1 -w PhoenixGo_v1.txt --noponder`  
+repo: [https://github.com/yenw/LeelaZero_PhoenixGo](https://github.com/yenw/LeelaZero_PhoenixGo) version: v2_lizzie
+
+## Leela Zero 0.16 ##
+
+LZ xxx  
+`-p1600 -g -t1 -w xxxx.gz --noponder`
+
+LZ xxx (040 < xxx <= 057)  
+`-p1600 -r5 -g -t1 -w xxxx.gz --noponder`
+
+LZ xxx (xxx <= 040)  
+`-p1600 -r3 -g -t1 -w xxxx.gz --noponder`
+
+LZ xxx 3.2k  
+`-p3200 -g -t1 -w xxxx.gz --noponder`
+
+LZ xxx 1.2k  
+`-p1200 -g -t1 -w xxxx.gz --noponder`
+
+LZ xxx 0.8k  
+`-p800 -g -t1 -w xxxx.gz --noponder`
+
+LZ xxx 0.4k  
+`-p400 -g -t1 -w xxxx.gz --noponder`
+
+LZ xxx 0.2k  
+`-p200 -g -t1 -w xxxx.gz --noponder`
+
+LZ xxx 0.1k  
+`-p100 -g -t1 -w xxxx.gz --noponder`
+
+LZ xxx 0.1k (xxx < 024)  
+`-p100 -r1 -g -t1 -w xxxx.gz --noponder`
+
+LZ xxx 0.06k (xxx < 024)  
+`-p60 -r1 -g -t1 -w xxxx.gz --noponder`
+
+LZ xxx 0.04k (xxx < 024)  
+`-p40 -r1 -g -t1 -w xxxx.gz --noponder`
+
+LZ xxx 0.02k (xxx < 024)  
+`-p40 -r1 -g -t1 -w xxxx.gz --noponder`
+
+LZ xxx 0.01k (xxx < 024)  
+`-p10 -r1 -g -t1 -w xxxx.gz --noponder`
+
+#### LeelaZero with ELF OpenGo network ####
+
+LZ ELF v0 (224x20blocks)  
+`-p1600 -g -t1 -w elf_converted_weights_62b5417b.txt --noponder`
+
+LZ ELF v1 (224x20blocks)  
+`-p1600 -g -t1 -w elf_converted_weights_d13c4099.txt --noponder`
+
+#### LeelaZero with Leela Master network ####
+
+LZ LM 10BE08 (128x10blocks,E08)  
+`-p1600 -g -t1 -w LeelaMaster_E08.txt --noponder`
+
+LZ LM 15BGX78 (192x15blocks,GX78)  
+`-p1600 -g -t1 -w LeelaMaster_GX78.txt --noponder`
+
+LZ LM 15BGX88 (192x15blocks,GX88)  
+`-p1600 -g -t1 -w LeelaMaster_GX88.txt --noponder`
+
+Leela Master networks from [https://github.com/pangafu/LeelaMasterWeight](https://github.com/pangafu/LeelaMasterWeight)
+
+#### LeelaZero with ZQ network ####
+
+LZ ZQ X2 (192x15blocks)  
+`-p1600 -g -t1 -w ZQ15B-X2.gz --noponder`
+
+LZ ZQ G5 (192x15blocks)  
+`-p1600 -g -t1 -w ZQ-G5.gz --noponder`
+
+LZ ZQ i8 (128x10blocks)  
+`-p1600 -g -t1 -w ZQ-i8.gz --noponder`
+
+LZ ZQ F1 (64x5blocks)  
+`-p1600 -g -t1 -w ZQ1-F1.gz --noponder`
+
 ## MoGo Windows ##
 
 MoGo release3 1k  
 `--19 --chinese-rules --nbTotalSimulations 1000`  
 download: [http://www.godrago.net/Engines.htm](http://www.godrago.net/Engines.htm)
+
+## pachi 12.10 ##
+
+pachi 3k  
+`-t =3000:9000 threads=1`
+
+pachi 1k  
+`-t =1000:3000 threads=1`
+
+pachi nodcnn 1k  
+`--nodcnn -t =1000:3000 threads=1`
+
+pachi nodcnn 3k  
+`--nodcnn -t =3000:9000 threads=1`
+
+pachi nodcnn 5k  
+`--nodcnn -t =5000:15000 threads=1`
 
 ## RN 4.32 ##
 
@@ -209,103 +312,3 @@ zen7 9D
 
 zen7 9D+  
 `-t1 -r20 -T180 -s25000 -n3 -o1.0 -p0.75`
-
-## Leela 0.11 ##
-Leela 0.11 0.1k  
-`-p100 -g -t1 --noponder`
-
-Leela 0.11 0.5k  
-`-p500 -g -t1 --noponder`
-
-Leela 0.11 1.0k  
-`-p1000 -g -t1 --noponder`
-
-Leela 0.11 1.6k  
-`-p1600 -g -t1 --noponder`
-
-Leela 0.11 6.4k  
-`-p6400 -g -t1 --noponder`
-
-## Leela Zero 0.16 ##
-
-LZ xxx  
-`-p1600 -g -t1 -w xxxx.gz --noponder`
-
-LZ xxx (040 < xxx <= 057)  
-`-p1600 -r5 -g -t1 -w xxxx.gz --noponder`
-
-LZ xxx (xxx <= 040)  
-`-p1600 -r3 -g -t1 -w xxxx.gz --noponder`
-
-LZ xxx 3.2k  
-`-p3200 -g -t1 -w xxxx.gz --noponder`
-
-LZ xxx 1.2k  
-`-p1200 -g -t1 -w xxxx.gz --noponder`
-
-LZ xxx 0.8k  
-`-p800 -g -t1 -w xxxx.gz --noponder`
-
-LZ xxx 0.4k  
-`-p400 -g -t1 -w xxxx.gz --noponder`
-
-LZ xxx 0.2k  
-`-p200 -g -t1 -w xxxx.gz --noponder`
-
-LZ xxx 0.1k  
-`-p100 -g -t1 -w xxxx.gz --noponder`
-
-LZ xxx 0.1k (xxx < 024)  
-`-p100 -r1 -g -t1 -w xxxx.gz --noponder`
-
-LZ xxx 0.06k (xxx < 024)  
-`-p60 -r1 -g -t1 -w xxxx.gz --noponder`
-
-LZ xxx 0.04k (xxx < 024)  
-`-p40 -r1 -g -t1 -w xxxx.gz --noponder`
-
-LZ xxx 0.01k (xxx < 024)  
-`-p10 -r1 -g -t1 -w xxxx.gz --noponder`
-
-#### LeelaZero with Leela Master network ####
-
-LZ LM 10BE08 (128x10blocks,E08)  
-`-p1600 -g -t1 -w LeelaMaster_E08.txt --noponder`
-
-LZ LM 15BGX78 (192x15blocks,GX78)  
-`-p1600 -g -t1 -w LeelaMaster_GX78.txt --noponder`
-
-LZ LM 15BGX88 (192x15blocks,GX88)  
-`-p1600 -g -t1 -w LeelaMaster_GX88.txt --noponder`
-
-Leela Master networks from [https://github.com/pangafu/LeelaMasterWeight](https://github.com/pangafu/LeelaMasterWeight)
-
-#### LeelaZero with ZQ network ####
-
-LZ ZQ X2 (192x15blocks)  
-`-p1600 -g -t1 -w ZQ15B-X2.gz --noponder`
-
-LZ ZQ G5 (192x15blocks)  
-`-p1600 -g -t1 -w ZQ-G5.gz --noponder`
-
-LZ ZQ i8 (128x10blocks)  
-`-p1600 -g -t1 -w ZQ-i8.gz --noponder`
-
-LZ ZQ F1 (64x5blocks)  
-`-p1600 -g -t1 -w ZQ1-F1.gz --noponder`
-
-#### LeelaZero with ELF OpenGo network ####
-
-LZ ELF v0 (224x20blocks)  
-`-p1600 -g -t1 -w elf_converted_weights_62b5417b.txt --noponder`
-
-LZ ELF v1 (224x20blocks)  
-`-p1600 -g -t1 -w elf_converted_weights_d13c4099.txt --noponder`
-
-## Leela Zero 0.15 ##
-
-#### LeelaZero (mod) with PhoenixGo network ####
-
-LZ PhoenixGo v1 (256x19blocks)  
-`-p1600 -g -t1 -w PhoenixGo_v1.txt --noponder`  
-repo: [https://github.com/yenw/LeelaZero_PhoenixGo](https://github.com/yenw/LeelaZero_PhoenixGo) version: v2_lizzie
