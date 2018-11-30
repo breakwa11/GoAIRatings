@@ -105,6 +105,12 @@ LZ ELF v0 (224x20blocks)
 LZ ELF v1 (224x20blocks)  
 `-p1600 -g -t1 -w elf_converted_weights_d13c4099.txt --noponder`
 
+LZ ELF v0 3.2k (224x20blocks)  
+`-p3200 -g -t1 -w elf_converted_weights_62b5417b.txt --noponder`
+
+LZ ELF v1 3.2k (224x20blocks)  
+`-p3200 -g -t1 -w elf_converted_weights_d13c4099.txt --noponder`
+
 #### LeelaZero with Leela Master network ####
 
 LZ LM 10BE08 (128x10blocks,E08)  
@@ -112,6 +118,9 @@ LZ LM 10BE08 (128x10blocks,E08)
 
 LZ LM 15BGX78 (192x15blocks,GX78)  
 `-p1600 -g -t1 -w LeelaMaster_GX78.txt --noponder`
+
+LZ LM 15BGX78 3.2k (192x15blocks,GX78)  
+`-p3200 -g -t1 -w LeelaMaster_GX78.txt --noponder`
 
 LZ LM 15BGX88 (192x15blocks,GX88)  
 `-p1600 -g -t1 -w LeelaMaster_GX88.txt --noponder`
