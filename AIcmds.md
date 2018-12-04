@@ -3,6 +3,16 @@
 aya 6.34  
 `--mode gtp --chinese-rule`
 
+## Dariush 3.1.5.7 ##
+
+DariushGTP3.1.5.7 lv1  
+`--level 1 --rules chinese`
+
+DariushGTP3.1.5.7 lv7  
+`--level 7 --rules chinese`
+
+[http://ricoh51.free.fr/indexeng.htm](http://ricoh51.free.fr/indexeng.htm)
+
 ## fuego 1.1 ##
 
 fuego 1.1 5M  
@@ -20,6 +30,13 @@ fuego 1.1 1M
     uct_param_search number_threads 1
     uct_param_search max_nodes 1000000
     uct_param_search prune_full_tree 0
+
+## Go169 1.0 ##
+
+Go169  
+` `
+
+[http://www.cis.hut.fi/praiko/go169/](http://www.cis.hut.fi/praiko/go169/)
 
 ## gnugo 3.8 ##
 
@@ -51,7 +68,7 @@ Leela 0.11 6.4k
 
 LZ PhoenixGo v1 (256x19blocks)  
 `-p1600 -g -t1 -w PhoenixGo_v1.txt --noponder`  
-repo: [https://github.com/yenw/LeelaZero_PhoenixGo](https://github.com/yenw/LeelaZero_PhoenixGo) version: v2_lizzie
+release: [https://github.com/alreadydone/lz/releases/tag/phoenix-v0.3](https://github.com/alreadydone/lz/releases/tag/phoenix-v0.3)
 
 ## Leela Zero 0.16 ##
 
@@ -125,9 +142,15 @@ LZ LM 15BGX78 3.2k (192x15blocks,GX78)
 LZ LM 15BGX88 (192x15blocks,GX88)  
 `-p1600 -g -t1 -w LeelaMaster_GX88.txt --noponder`
 
+LZ LM 15BGX89 (192x15blocks,GX89)  
+`-p1600 -g -t1 -w LeelaMaster_GX89.txt --noponder`
+
 Leela Master networks from [https://github.com/pangafu/LeelaMasterWeight](https://github.com/pangafu/LeelaMasterWeight)
 
 #### LeelaZero with ZQ network ####
+
+LZ ZQ X4 (192x15blocks)  
+`-p1600 -g -t1 -w ZQ15BX4.gz --noponder`
 
 LZ ZQ X2 (192x15blocks)  
 `-p1600 -g -t1 -w ZQ15B-X2.gz --noponder`
@@ -140,6 +163,16 @@ LZ ZQ i8 (128x10blocks)
 
 LZ ZQ F1 (64x5blocks)  
 `-p1600 -g -t1 -w ZQ1-F1.gz --noponder`
+
+#### LeelaZero with other network ####
+
+LZ 6b2h (128x6blocks)  
+`-p1600 -g -t1 -w 6b2h.txt --noponder`
+Author: unknown
+
+LZ ManKit Pong 10BF (128x10blocks)  
+`-p1600 -g -t1 -w fast_lr_drop_1600k_final.txt --noponder`
+Author: [@godmoves](https://github.com/godmoves)
 
 ## MoGo Windows ##
 
