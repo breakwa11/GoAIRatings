@@ -1,3 +1,10 @@
+## AmiGo 1.8 ##
+
+AmiGo1.8  
+` `
+
+[http://amigogtp.sourceforge.net](http://amigogtp.sourceforge.net)
+
 ## aya 6.34 ##
 
 aya 6.34  
