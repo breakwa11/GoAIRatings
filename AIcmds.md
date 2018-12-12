@@ -187,7 +187,9 @@ MoGo release3 1k
 `--19 --chinese-rules --nbTotalSimulations 1000`  
 download: [http://www.godrago.net/Engines.htm](http://www.godrago.net/Engines.htm)
 
-## pachi 12.10 ##
+## pachi ##
+
+#### pachi 12.10 ####
 
 pachi 3k  
 `-t =3000:9000 threads=1`
@@ -195,14 +197,22 @@ pachi 3k
 pachi 1k  
 `-t =1000:3000 threads=1`
 
-pachi nodcnn 1k  
-`--nodcnn -t =1000:3000 threads=1`
+pachi nodcnn 5k  
+`--nodcnn -t =5000:15000 threads=1`
 
 pachi nodcnn 3k  
 `--nodcnn -t =3000:9000 threads=1`
 
-pachi nodcnn 5k  
+pachi nodcnn 1k  
+`--nodcnn -t =1000:3000 threads=1`
+
+#### pachi 12.20 ####
+
+pachi 12.20 nodcnn 5k  
 `--nodcnn -t =5000:15000 threads=1`
+
+pachi 12.20 nodcnn 3k  
+`--nodcnn -t =3000:9000 threads=1`
 
 ## RN 4.32 ##
 
