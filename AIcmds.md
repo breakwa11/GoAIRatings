@@ -152,6 +152,9 @@ LZ LM 15BGX88 (192x15blocks,GX88)
 LZ LM 15BGX89 (192x15blocks,GX89)  
 `-p1600 -g -t1 -w LeelaMaster_GX89.txt --noponder`
 
+LZ LM 15BGX97 (192x15blocks,GX97)  
+`-p1600 -g -t1 -w LeelaMaster_GX97.txt --noponder`
+
 Leela Master networks from [https://github.com/pangafu/LeelaMasterWeight](https://github.com/pangafu/LeelaMasterWeight)
 
 #### LeelaZero with ZQ network ####
@@ -173,13 +176,21 @@ LZ ZQ F1 (64x5blocks)
 
 #### LeelaZero with other network ####
 
-LZ 6b2h (128x6blocks)  
-`-p1600 -g -t1 -w 6b2h.txt --noponder`
-Author: unknown
-
 LZ ManKit Pong 10BF (128x10blocks)  
 `-p1600 -g -t1 -w fast_lr_drop_1600k_final.txt --noponder`
 Author: [@godmoves](https://github.com/godmoves)
+SHA256: ED1010C789182D1F401A5198369E0D3A147068C6D5EEDBD3172708A507DECC14
+
+LZ 6b2h (128x6blocks)  
+`-p1600 -g -t1 -w 6b2h.txt --noponder`
+Author: unknown  
+SHA256: B861162DC9C40B8BCB0554357B9863F2A10704CEF2B9A7BDFEE4743CA30C2E68
+
+LZ S05B064F-C77779D0
+`-p1600 -g -t1 -w S05B064F-C77779D0.txt --noponder`
+Author: unknown  
+SHA256: C77779D07C86A10EB4A210ED590F162BD9C9E904B18C500ADD78CA0811F2DDF4  
+Original filename: weights 最强-64x5.txt
 
 ## MoGo Windows ##
 
@@ -208,11 +219,17 @@ pachi nodcnn 1k
 
 #### pachi 12.20 ####
 
+pachi 12.20 1k  
+`-t =1000:3000 threads=1`
+
 pachi 12.20 nodcnn 5k  
 `--nodcnn -t =5000:15000 threads=1`
 
 pachi 12.20 nodcnn 3k  
 `--nodcnn -t =3000:9000 threads=1`
+
+pachi 12.20 nodcnn 1k  
+`--nodcnn -t =1000:3000 threads=1`
 
 ## RN 4.32 ##
 
