@@ -109,16 +109,16 @@ LZ xxx 0.1k
 LZ xxx 0.1k (xxx < 024)  
 `-p100 -r1 -g -t1 -w xxxx.gz --noponder`
 
-LZ xxx 0.06k (xxx < 024)  
+LZ xxx 0.06k  
 `-p60 -r1 -g -t1 -w xxxx.gz --noponder`
 
-LZ xxx 0.04k (xxx < 024)  
+LZ xxx 0.04k  
 `-p40 -r1 -g -t1 -w xxxx.gz --noponder`
 
-LZ xxx 0.02k (xxx < 024)  
+LZ xxx 0.02k  
 `-p40 -r1 -g -t1 -w xxxx.gz --noponder`
 
-LZ xxx 0.01k (xxx < 024)  
+LZ xxx 0.01k  
 `-p10 -r1 -g -t1 -w xxxx.gz --noponder`
 
 #### LeelaZero with ELF OpenGo network ####
@@ -218,6 +218,9 @@ pachi nodcnn 1k
 `--nodcnn -t =1000:3000 threads=1`
 
 #### pachi 12.20 ####
+
+pachi 12.20 3k  
+`-t =3000:9000 threads=1`
 
 pachi 12.20 1k  
 `-t =1000:3000 threads=1`
