@@ -159,6 +159,12 @@ Leela Master networks from [https://github.com/pangafu/LeelaMasterWeight](https:
 
 #### LeelaZero with ZQ network ####
 
+LZ ZQ elf-5 (224x20blocks)  
+`-p1600 -g -t1 -w ZQelf-5.gz --noponder`
+
+LZ ZQ elf-2 (224x20blocks)  
+`-p1600 -g -t1 -w ZQelf-2.gz --noponder`
+
 LZ ZQ X4 (192x15blocks)  
 `-p1600 -g -t1 -w ZQ15BX4.gz --noponder`
 
