@@ -121,6 +121,12 @@ LZ xxx 0.02k
 LZ xxx 0.01k  
 `-p10 -r1 -g -t1 -w xxxx.gz --noponder`
 
+#### LeelaZero with bjiyxo network ####
+
+LZ bjiyxo 92297ff2 (192x15blocks)  
+`-p1600 -g -t1 -w 92297ff22dfa781bd02def6cadafdf7d69e9546300a913faf19e6164b895ed39.gz --noponder`  
+download: [here](https://zero.sjeng.org/networks/92297ff22dfa781bd02def6cadafdf7d69e9546300a913faf19e6164b895ed39.gz)
+
 #### LeelaZero with ELF OpenGo network ####
 
 LZ ELF v0 (224x20blocks)  
@@ -163,7 +169,7 @@ LZ ZQ elf-5 (224x20blocks)
 `-p1600 -g -t1 -w ZQelf-5.gz --noponder`
 
 LZ ZQ elf-2 (224x20blocks)  
-`-p1600 -g -t1 -w ZQelf-2.gz --noponder`
+`-p1600 -g -t1 -w ZQelf.2.gz --noponder`
 
 LZ ZQ X4 (192x15blocks)  
 `-p1600 -g -t1 -w ZQ15BX4.gz --noponder`
@@ -180,11 +186,14 @@ LZ ZQ i8 (128x10blocks)
 LZ ZQ F1 (64x5blocks)  
 `-p1600 -g -t1 -w ZQ1-F1.gz --noponder`
 
+Reference: QQ group 278743263  
+Android APP: 阿Q围棋
+
 #### LeelaZero with other network ####
 
 LZ ManKit Pong 10BF (128x10blocks)  
-`-p1600 -g -t1 -w fast_lr_drop_1600k_final.txt --noponder`
-Author: [@godmoves](https://github.com/godmoves)
+`-p1600 -g -t1 -w fast_lr_drop_1600k_final.txt --noponder`  
+Author: [@godmoves](https://github.com/godmoves)  
 SHA256: ED1010C789182D1F401A5198369E0D3A147068C6D5EEDBD3172708A507DECC14
 
 LZ 6b2h (128x6blocks)  
