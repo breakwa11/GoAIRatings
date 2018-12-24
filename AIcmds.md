@@ -187,7 +187,7 @@ LZ ZQ F1 (64x5blocks)
 `-p1600 -g -t1 -w ZQ1-F1.gz --noponder`
 
 Reference: QQ group 278743263  
-Android APP: 阿Q围棋
+Android APP: [Ah Q Go](https://play.google.com/store/apps/details?id=cn.ezandroid.aq)
 
 #### LeelaZero with other network ####
 
@@ -197,12 +197,12 @@ Author: [@godmoves](https://github.com/godmoves)
 SHA256: ED1010C789182D1F401A5198369E0D3A147068C6D5EEDBD3172708A507DECC14
 
 LZ 6b2h (128x6blocks)  
-`-p1600 -g -t1 -w 6b2h.txt --noponder`
+`-p1600 -g -t1 -w 6b2h.txt --noponder`  
 Author: unknown  
 SHA256: B861162DC9C40B8BCB0554357B9863F2A10704CEF2B9A7BDFEE4743CA30C2E68
 
-LZ S05B064F-C77779D0
-`-p1600 -g -t1 -w S05B064F-C77779D0.txt --noponder`
+LZ S05B064F-C77779D0  
+`-p1600 -g -t1 -w S05B064F-C77779D0.txt --noponder`  
 Author: unknown  
 SHA256: C77779D07C86A10EB4A210ED590F162BD9C9E904B18C500ADD78CA0811F2DDF4  
 Original filename: weights 最强-64x5.txt
