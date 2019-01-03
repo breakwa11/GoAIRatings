@@ -75,7 +75,8 @@ Leela 0.11 6.4k
 
 LZ PhoenixGo v1 (256x19blocks)  
 `-p1600 -g -t1 -w PhoenixGo_v1.txt --noponder`  
-release: [https://github.com/alreadydone/lz/releases/tag/phoenix-v0.3](https://github.com/alreadydone/lz/releases/tag/phoenix-v0.3)
+bin: phoenix-orig-mt.exe  
+release: [https://github.com/alreadydone/lz/releases/tag/phoenix-v0.33](https://github.com/alreadydone/lz/releases/tag/phoenix-v0.33)
 
 ## Leela Zero 0.16 ##
 
@@ -141,7 +142,7 @@ LZ ELF v0 3.2k (224x20blocks)
 LZ ELF v1 3.2k (224x20blocks)  
 `-p3200 -g -t1 -w elf_converted_weights_d13c4099.txt --noponder`
 
-ELF v0: [download](http://zero.sjeng.org/networks/62b5417b64c46976795d10a6741801f15f857e5029681a42d02c9852097df4b9.gz)
+ELF v0: [download](https://zero.sjeng.org/networks/62b5417b64c46976795d10a6741801f15f857e5029681a42d02c9852097df4b9.gz)
 
 ELF v1: [download](https://zero.sjeng.org/networks/d13c40993740cb77d85c838b82c08cc9c3f0fbc7d8c3761366e5d59e8f371cbd.gz)
 
@@ -215,7 +216,7 @@ Original filename: weights 最强-64x5.txt
 
 MoGo release3 1k  
 `--19 --chinese-rules --nbTotalSimulations 1000`  
-download: [http://www.godrago.net/Engines.htm](http://www.godrago.net/Engines.htm)
+download: [http://www.godrago.net/Engines.htm](https://www.godrago.net/Engines.htm)
 
 ## pachi ##
 
