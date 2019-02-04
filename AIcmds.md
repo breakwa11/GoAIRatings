@@ -128,7 +128,7 @@ LZ bjiyxo 92297ff2 (192x15blocks)
 `-p1600 -g -t1 -w 92297ff22dfa781bd02def6cadafdf7d69e9546300a913faf19e6164b895ed39.gz --noponder`  
 download: [here](https://zero.sjeng.org/networks/92297ff22dfa781bd02def6cadafdf7d69e9546300a913faf19e6164b895ed39.gz)
 
-LZ bjiyxo f438268e
+LZ bjiyxo f438268e (192x15blocks)  
 `-p1600 -g -t1 -w f438268ef88e083aaf7a08fba885552818abc08cd0aefce9671954a8df3cf707.gz --noponder`  
 download: [here](https://zero.sjeng.org/networks/f438268ef88e083aaf7a08fba885552818abc08cd0aefce9671954a8df3cf707.gz)
 
@@ -171,6 +171,11 @@ LZ LM 15BGX97 (192x15blocks,GX97)
 `-p1600 -g -t1 -w LeelaMaster_GX97.txt --noponder`
 
 Leela Master networks from [https://github.com/pangafu/LeelaMasterWeight](https://github.com/pangafu/LeelaMasterWeight)
+
+#### LeelaZero with minigo network ####
+
+LZ minigo 000199 (256x15blocks)  
+`-p1600 -g -t1 -w 000199.gz --noponder`
 
 #### LeelaZero with ZQ network ####
 
