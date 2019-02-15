@@ -2,221 +2,221 @@
 
 Name | Size | Rank | ELO | Games
 -----|------|-----:|----:|-----:
-[AmiGo1.8](cross/AmiGo1.8.md) | - | 11k | -275 | 296
-[DariushGTP3.1.5.7 lv1](cross/DariushGTP3.1.5.7%20lv1.md) | - | 7k | 544 | 227
-[DariushGTP3.1.5.7 lv7](cross/DariushGTP3.1.5.7%20lv7.md) | - | 5k | 838 | 229
-[Go169](cross/Go169.md) | - | 10k | -88 | 248
-[LZ 002 0.004k](cross/LZ%20002%200.004k.md) | 4x32 | 29k | -3875 | 429
-[LZ 002 0.01k](cross/LZ%20002%200.01k.md) | 4x32 | 29k | -3840 | 442
-[LZ 002 0.02k](cross/LZ%20002%200.02k.md) | 4x32 | 28k | -3793 | 440
-[LZ 002 0.04k](cross/LZ%20002%200.04k.md) | 4x32 | 28k | -3704 | 436
-[LZ 002 0.06k](cross/LZ%20002%200.06k.md) | 4x32 | 28k | -3619 | 441
-[LZ 002 0.1k](cross/LZ%20002%200.1k.md) | 4x32 | 28k | -3634 | 447
-[LZ 002 0.2k](cross/LZ%20002%200.2k.md) | 4x32 | 27k | -3542 | 444
-[LZ 003 0.004k](cross/LZ%20003%200.004k.md) | 4x32 | 29k | -3810 | 418
-[LZ 003 0.01k](cross/LZ%20003%200.01k.md) | 4x32 | 28k | -3733 | 434
-[LZ 003 0.02k](cross/LZ%20003%200.02k.md) | 4x32 | 28k | -3660 | 421
-[LZ 003 0.04k](cross/LZ%20003%200.04k.md) | 4x32 | 27k | -3534 | 410
-[LZ 003 0.06k](cross/LZ%20003%200.06k.md) | 4x32 | 27k | -3493 | 434
-[LZ 003 0.1k](cross/LZ%20003%200.1k.md) | 4x32 | 27k | -3485 | 444
-[LZ 003 0.2k](cross/LZ%20003%200.2k.md) | 4x32 | 26k | -3300 | 443
-[LZ 004 0.004k](cross/LZ%20004%200.004k.md) | 4x32 | 30k | -4143 | 387
-[LZ 004 0.01k](cross/LZ%20004%200.01k.md) | 4x32 | 30k | -4086 | 443
-[LZ 004 0.02k](cross/LZ%20004%200.02k.md) | 4x32 | 29k | -3920 | 446
-[LZ 004 0.04k](cross/LZ%20004%200.04k.md) | 4x32 | 29k | -3865 | 461
-[LZ 004 0.06k](cross/LZ%20004%200.06k.md) | 4x32 | 28k | -3787 | 520
-[LZ 004 0.1k](cross/LZ%20004%200.1k.md) | 4x32 | 27k | -3599 | 454
-[LZ 004 0.2k](cross/LZ%20004%200.2k.md) | 4x32 | 27k | -3483 | 443
-[LZ 005 0.02k](cross/LZ%20005%200.02k.md) | 5x64 | 28k | -3636 | 467
-[LZ 005 0.04k](cross/LZ%20005%200.04k.md) | 5x64 | 27k | -3481 | 429
-[LZ 005 0.06k](cross/LZ%20005%200.06k.md) | 5x64 | 27k | -3412 | 457
-[LZ 005 0.1k](cross/LZ%20005%200.1k.md) | 5x64 | 26k | -3365 | 445
-[LZ 005 0.2k](cross/LZ%20005%200.2k.md) | 5x64 | 25k | -3153 | 442
-[LZ 006 0.04k](cross/LZ%20006%200.04k.md) | 5x64 | 24k | -2987 | 424
-[LZ 006 0.06k](cross/LZ%20006%200.06k.md) | 5x64 | 24k | -2877 | 438
-[LZ 006 0.1k](cross/LZ%20006%200.1k.md) | 5x64 | 23k | -2687 | 445
-[LZ 006 0.2k](cross/LZ%20006%200.2k.md) | 5x64 | 22k | -2421 | 430
-[LZ 007 0.04k](cross/LZ%20007%200.04k.md) | 5x64 | 26k | -3246 | 437
-[LZ 007 0.06k](cross/LZ%20007%200.06k.md) | 5x64 | 25k | -3074 | 431
-[LZ 007 0.1k](cross/LZ%20007%200.1k.md) | 5x64 | 24k | -2836 | 444
-[LZ 007 0.2k](cross/LZ%20007%200.2k.md) | 5x64 | 22k | -2566 | 448
-[LZ 008 0.01k](cross/LZ%20008%200.01k.md) | 5x64 | 24k | -2854 | 444
-[LZ 008 0.02k](cross/LZ%20008%200.02k.md) | 5x64 | 23k | -2625 | 427
-[LZ 008 0.04k](cross/LZ%20008%200.04k.md) | 5x64 | 22k | -2467 | 449
-[LZ 008 0.06k](cross/LZ%20008%200.06k.md) | 5x64 | 21k | -2328 | 433
-[LZ 008 0.1k](cross/LZ%20008%200.1k.md) | 5x64 | 20k | -2090 | 429
-[LZ 008 0.2k](cross/LZ%20008%200.2k.md) | 5x64 | 18k | -1723 | 438
-[LZ 009 0.04k](cross/LZ%20009%200.04k.md) | 5x64 | 20k | -2184 | 429
-[LZ 009 0.06k](cross/LZ%20009%200.06k.md) | 5x64 | 20k | -2071 | 427
-[LZ 009 0.1k](cross/LZ%20009%200.1k.md) | 5x64 | 19k | -1801 | 432
-[LZ 009 0.2k](cross/LZ%20009%200.2k.md) | 5x64 | 16k | -1361 | 391
-[LZ 010 0.06k](cross/LZ%20010%200.06k.md) | 5x64 | 17k | -1562 | 416
-[LZ 010 0.1k](cross/LZ%20010%200.1k.md) | 5x64 | 15k | -1125 | 311
-[LZ 011 0.1k](cross/LZ%20011%200.1k.md) | 5x64 | 15k | -1102 | 328
-[LZ 012 0.1k](cross/LZ%20012%200.1k.md) | 5x64 | 13k | -679 | 312
-[LZ 013 0.1k](cross/LZ%20013%200.1k.md) | 5x64 | 13k | -669 | 307
-[LZ 014 0.1k](cross/LZ%20014%200.1k.md) | 5x64 | 11k | -319 | 300
-[LZ 015 0.1k](cross/LZ%20015%200.1k.md) | 5x64 | 10k | -151 | 231
-[LZ 016 0.1k](cross/LZ%20016%200.1k.md) | 5x64 | 10k | -11 | 228
-[LZ 017 0.1k](cross/LZ%20017%200.1k.md) | 5x64 | 9k | 121 | 225
-[LZ 018 0.1k](cross/LZ%20018%200.1k.md) | 5x64 | 8k | 248 | 219
-[LZ 019 0.1k](cross/LZ%20019%200.1k.md) | 5x64 | 8k | 360 | 221
-[LZ 020 0.1k](cross/LZ%20020%200.1k.md) | 5x64 | 8k | 349 | 219
-[LZ 021](cross/LZ%20021.md) | 5x64 | 6k | 642 | 221
-[LZ 021 0.1k](cross/LZ%20021%200.1k.md) | 5x64 | 8k | 355 | 220
-[LZ 026](cross/LZ%20026.md) | 5x64 | 6k | 772 | 224
-[LZ 031](cross/LZ%20031.md) | 5x64 | 5k | 936 | 220
-[LZ 033](cross/LZ%20033.md) | 5x64 | 4k | 1059 | 225
-[LZ 036](cross/LZ%20036.md) | 5x64 | 3k | 1248 | 221
-[LZ 038](cross/LZ%20038.md) | 5x64 | 2k | 1433 | 228
-[LZ 039](cross/LZ%20039.md) | 5x64 | 2k | 1409 | 223
-[LZ 041](cross/LZ%20041.md) | 5x64 | 2k | 1544 | 219
-[LZ 043](cross/LZ%20043.md) | 5x64 | 1k | 1663 | 233
-[LZ 046](cross/LZ%20046.md) | 5x64 | 1D | 1879 | 222
-[LZ 051](cross/LZ%20051.md) | 5x64 | 1D | 1995 | 218
-[LZ 057](cross/LZ%20057.md) | 5x64 | 2D | 2149 | 222
-[LZ 058](cross/LZ%20058.md) | 6x128 | 3D | 2236 | 223
-[LZ 058 0.1k](cross/LZ%20058%200.1k.md) | 6x128 | 1D | 1903 | 245
-[LZ 062](cross/LZ%20062.md) | 6x128 | 4D | 2429 | 226
-[LZ 066](cross/LZ%20066.md) | 6x128 | 4D | 2451 | 220
-[LZ 071](cross/LZ%20071.md) | 6x128 | 5D | 2609 | 218
-[LZ 076](cross/LZ%20076.md) | 6x128 | 5D | 2692 | 226
-[LZ 081](cross/LZ%20081.md) | 6x128 | 5D | 2747 | 220
-[LZ 084](cross/LZ%20084.md) | 6x128 | 5D | 2783 | 223
-[LZ 091](cross/LZ%20091.md) | 6x128 | 6D | 2896 | 218
-[LZ 092](cross/LZ%20092.md) | 10x128 | 7D | 3094 | 219
-[LZ 095](cross/LZ%20095.md) | 10x128 | 7D | 3194 | 222
-[LZ 098](cross/LZ%20098.md) | 10x128 | 7D | 3180 | 215
-[LZ 102](cross/LZ%20102.md) | 10x128 | 8D | 3272 | 217
-[LZ 105](cross/LZ%20105.md) | 10x128 | 8D | 3296 | 218
-[LZ 108](cross/LZ%20108.md) | 10x128 | 8D | 3372 | 216
-[LZ 111](cross/LZ%20111.md) | 10x128 | 8D | 3370 | 219
-[LZ 116](cross/LZ%20116.md) | 10x128 | 9D | 3444 | 210
-[LZ 117](cross/LZ%20117.md) | 15x192 | 10D | 3745 | 243
-[LZ 117 0.1k](cross/LZ%20117%200.1k.md) | 15x192 | 7D | 3094 | 218
-[LZ 117 0.4k](cross/LZ%20117%200.4k.md) | 15x192 | 9D | 3407 | 220
-[LZ 117 0.8k](cross/LZ%20117%200.8k.md) | 15x192 | 9D | 3535 | 187
-[LZ 117 1.2k](cross/LZ%20117%201.2k.md) | 15x192 | 10D | 3663 | 225
-[LZ 122](cross/LZ%20122.md) | 15x192 | 11D | 3856 | 204
-[LZ 127](cross/LZ%20127.md) | 15x192 | 11D | 3947 | 223
-[LZ 128](cross/LZ%20128.md) | 15x192 | 11D | 3947 | 218
-[LZ 131](cross/LZ%20131.md) | 15x192 | 12D | 4021 | 175
-[LZ 135](cross/LZ%20135.md) | 15x192 | 12D | 4014 | 176
-[LZ 139](cross/LZ%20139.md) | 15x192 | 12D | 4073 | 180
-[LZ 143](cross/LZ%20143.md) | 15x192 | 12D | 4138 | 176
-[LZ 147](cross/LZ%20147.md) | 15x192 | 12D | 4124 | 172
-[LZ 151](cross/LZ%20151.md) | 15x192 | 12D | 4171 | 173
-[LZ 154](cross/LZ%20154.md) | 15x192 | 13D | 4232 | 170
-[LZ 157](cross/LZ%20157.md) | 15x192 | 13D | 4307 | 175
-[LZ 157 3.2k](cross/LZ%20157%203.2k.md) | 15x192 | 14D | 4431 | 176
-[LZ 165](cross/LZ%20165.md) | 20x256 | 13D | 4333 | 176
-[LZ 173](cross/LZ%20173.md) | 20x256 | 13D | 4318 | 172
-[LZ 174](cross/LZ%20174.md) | 40x256 | 14D | 4448 | 188
-[LZ 182](cross/LZ%20182.md) | 40x256 | 14D | 4468 | 179
-[LZ 190](cross/LZ%20190.md) | 40x256 | 14D | 4503 | 180
-[LZ 193](cross/LZ%20193.md) | 40x256 | 14D | 4495 | 178
-[LZ 195](cross/LZ%20195.md) | 40x256 | 14D | 4543 | 181
-[LZ 196](cross/LZ%20196.md) | 40x256 | 14D | 4571 | 179
-[LZ 198](cross/LZ%20198.md) | 40x256 | 15D | 4621 | 181
-[LZ 200](cross/LZ%20200.md) | 40x256 | 15D | 4646 | 152
-[LZ 202](cross/LZ%20202.md) | 40x256 | 15D | 4628 | 102
-[LZ 6b2h](cross/LZ%206b2h.md) | 6x128 | 6D | 2843 | 222
-[LZ ELF v0](cross/LZ%20ELF%20v0.md) | 20x224 | 14D | 4491 | 182
-[LZ ELF v0 3.2k](cross/LZ%20ELF%20v0%203.2k.md) | 20x224 | 14D | 4560 | 190
-[LZ ELF v1](cross/LZ%20ELF%20v1.md) | 20x224 | 14D | 4552 | 199
-[LZ ELF v1 3.2k](cross/LZ%20ELF%20v1%203.2k.md) | 20x224 | 15D | 4635 | 188
-[LZ LM 10BE08](cross/LZ%20LM%2010BE08.md) | 10x128 | 9D | 3445 | 205
-[LZ LM 15BGX37](cross/LZ%20LM%2015BGX37.md) | 15x192 | 13D | 4233 | 175
-[LZ LM 15BGX5B](cross/LZ%20LM%2015BGX5B.md) | 15x192 | 13D | 4379 | 175
-[LZ LM 15BGX78](cross/LZ%20LM%2015BGX78.md) | 15x192 | 14D | 4401 | 173
-[LZ LM 15BGX78 3.2k](cross/LZ%20LM%2015BGX78%203.2k.md) | 15x192 | 14D | 4522 | 181
-[LZ LM 15BGX88](cross/LZ%20LM%2015BGX88.md) | 15x192 | 14D | 4407 | 176
-[LZ LM 15BGX89](cross/LZ%20LM%2015BGX89.md) | 15x192 | 14D | 4424 | 181
-[LZ LM 15BGX97](cross/LZ%20LM%2015BGX97.md) | 15x192 | 13D | 4346 | 167
-[LZ LM 15BGXA5](cross/LZ%20LM%2015BGXA5.md) | 15x192 | 12D | 4129 | 172
-[LZ LM 15BGXAA](cross/LZ%20LM%2015BGXAA.md) | 15x192 | 12D | 4016 | 170
-[LZ ManKit Pong 10BF](cross/LZ%20ManKit%20Pong%2010BF.md) | 10x128 | 10D | 3745 | 249
-[LZ PhoenixGo v1](cross/LZ%20PhoenixGo%20v1.md) | 19x256 | 12D | 4107 | 173
-[LZ S05B064F-C77779D0](cross/LZ%20S05B064F-C77779D0.md) | 5x64 | 5D | 2641 | 226
-[LZ ZQ F1](cross/LZ%20ZQ%20F1.md) | 5x64 | 5D | 2723 | 221
-[LZ ZQ G5](cross/LZ%20ZQ%20G5.md) | 15x192 | 14D | 4418 | 173
-[LZ ZQ X2](cross/LZ%20ZQ%20X2.md) | 15x192 | 13D | 4293 | 193
-[LZ ZQ X4](cross/LZ%20ZQ%20X4.md) | 15x192 | 13D | 4349 | 176
-[LZ ZQ elf-2](cross/LZ%20ZQ%20elf-2.md) | 20x224 | 14D | 4584 | 191
-[LZ ZQ elf-5](cross/LZ%20ZQ%20elf-5.md) | 20x224 | 14D | 4528 | 182
-[LZ ZQ i8](cross/LZ%20ZQ%20i8.md) | 10x128 | 9D | 3426 | 221
-[LZ bjiyxo 92297ff2](cross/LZ%20bjiyxo%2092297ff2.md) | 15x192 | 13D | 4389 | 177
-[LZ bjiyxo f438268e](cross/LZ%20bjiyxo%20f438268e.md) | 15x192 | 14D | 4432 | 167
-[LZ minigo 000199](cross/LZ%20minigo%20000199.md) | 19x256 | 14D | 4539 | 106
-[Leela 0.11 0.1k](cross/Leela%200.11%200.1k.md) | - | 1D | 1943 | 222
-[Leela 0.11 0.5k](cross/Leela%200.11%200.5k.md) | - | 2D | 2192 | 215
-[Leela 0.11 1.0k](cross/Leela%200.11%201.0k.md) | - | 4D | 2427 | 222
-[Leela 0.11 1.6k](cross/Leela%200.11%201.6k.md) | - | 4D | 2563 | 223
-[Leela 0.11 6.4k](cross/Leela%200.11%206.4k.md) | - | 5D | 2768 | 219
-[MoGo release3 1k](cross/MoGo%20release3%201k.md) | - | 6k | 726 | 219
-[RN4.32 0.1k](cross/RN4.32%200.1k.md) | - | 6k | 679 | 207
-[RN4.32 0.2k](cross/RN4.32%200.2k.md) | - | 5k | 958 | 214
-[RN4.32 0.3k](cross/RN4.32%200.3k.md) | - | 3k | 1364 | 216
-[RN4.32 0.4k](cross/RN4.32%200.4k.md) | - | 1k | 1636 | 215
-[RN4.32 0.8k](cross/RN4.32%200.8k.md) | - | 1D | 1846 | 209
-[RN4.32 1.6k](cross/RN4.32%201.6k.md) | - | 1D | 1969 | 208
-[aya 6.34](cross/aya%206.34.md) | - | 6k | 632 | 219
-[fuego 1.1 1M](cross/fuego%201.1%201M.md) | - | 4k | 1116 | 220
-[fuego 1.1 5M](cross/fuego%201.1%205M.md) | - | 2k | 1403 | 221
-[gnugo 3.8 lv1](cross/gnugo%203.8%20lv1.md) | - | 4k | 1133 | 217
-[gnugo 3.8 lvX](cross/gnugo%203.8%20lvX.md) | - | 4k | 1112 | 218
-[pachi 12.20 1k](cross/pachi%2012.20%201k.md) | - | 1k | 1793 | 229
-[pachi 12.20 3k](cross/pachi%2012.20%203k.md) | - | 1D | 1930 | 228
-[pachi 12.20 nodcnn 1k](cross/pachi%2012.20%20nodcnn%201k.md) | - | 3k | 1360 | 223
-[pachi 12.20 nodcnn 3k](cross/pachi%2012.20%20nodcnn%203k.md) | - | 2k | 1593 | 220
-[pachi 12.20 nodcnn 5k](cross/pachi%2012.20%20nodcnn%205k.md) | - | 1k | 1738 | 227
-[pachi 1k](cross/pachi%201k.md) | - | 1k | 1755 | 220
-[pachi 3k](cross/pachi%203k.md) | - | 1D | 1938 | 219
-[pachi nodcnn 1k](cross/pachi%20nodcnn%201k.md) | - | 3k | 1308 | 218
-[pachi nodcnn 3k](cross/pachi%20nodcnn%203k.md) | - | 2k | 1526 | 221
-[pachi nodcnn 5k](cross/pachi%20nodcnn%205k.md) | - | 1k | 1638 | 220
-[zen6 1D](cross/zen6%201D.md) | - | 1k | 1740 | 224
-[zen6 1D+](cross/zen6%201D+.md) | - | 1k | 1758 | 215
-[zen6 1D-](cross/zen6%201D-.md) | - | 1k | 1613 | 221
-[zen6 1k](cross/zen6%201k.md) | - | 2k | 1450 | 219
-[zen6 1k+](cross/zen6%201k+.md) | - | 2k | 1544 | 219
-[zen6 2D](cross/zen6%202D.md) | - | 1D | 1909 | 219
-[zen6 2k](cross/zen6%202k.md) | - | 3k | 1298 | 218
-[zen6 3D](cross/zen6%203D.md) | - | 1D | 1955 | 224
-[zen6 3D+](cross/zen6%203D+.md) | - | 2D | 2045 | 225
-[zen6 3k](cross/zen6%203k.md) | - | 3k | 1211 | 225
-[zen6 4D](cross/zen6%204D.md) | - | 2D | 2172 | 222
-[zen6 4k](cross/zen6%204k.md) | - | 4k | 1106 | 219
-[zen6 5D](cross/zen6%205D.md) | - | 3D | 2325 | 225
-[zen6 5k](cross/zen6%205k.md) | - | 4k | 1079 | 223
-[zen6 6D](cross/zen6%206D.md) | - | 4D | 2488 | 219
-[zen6 6k](cross/zen6%206k.md) | - | 5k | 997 | 222
-[zen6 7D](cross/zen6%207D.md) | - | 5D | 2673 | 219
-[zen6 7k](cross/zen6%207k.md) | - | 4k | 1000 | 218
-[zen6 8k](cross/zen6%208k.md) | - | 5k | 863 | 218
-[zen6 9k](cross/zen6%209k.md) | - | 6k | 760 | 220
-[zen7 10k](cross/zen7%2010k.md) | - | 7k | 557 | 225
-[zen7 11k](cross/zen7%2011k.md) | - | 7k | 506 | 221
-[zen7 12k](cross/zen7%2012k.md) | - | 8k | 329 | 218
-[zen7 13k](cross/zen7%2013k.md) | - | 8k | 237 | 219
-[zen7 1D](cross/zen7%201D.md) | - | 1D | 1800 | 222
-[zen7 1k](cross/zen7%201k.md) | - | 1k | 1645 | 218
-[zen7 2D](cross/zen7%202D.md) | - | 1D | 1880 | 221
-[zen7 2k](cross/zen7%202k.md) | - | 2k | 1587 | 215
-[zen7 3D](cross/zen7%203D.md) | - | 2D | 2177 | 224
-[zen7 3k](cross/zen7%203k.md) | - | 3k | 1346 | 223
-[zen7 4D](cross/zen7%204D.md) | - | 3D | 2356 | 216
-[zen7 4k](cross/zen7%204k.md) | - | 3k | 1274 | 217
-[zen7 5D](cross/zen7%205D.md) | - | 4D | 2517 | 217
-[zen7 5k](cross/zen7%205k.md) | - | 3k | 1239 | 214
-[zen7 6D](cross/zen7%206D.md) | - | 5D | 2791 | 220
-[zen7 6D+](cross/zen7%206D+.md) | - | 6D | 2862 | 219
-[zen7 6D-](cross/zen7%206D-.md) | - | 5D | 2697 | 216
-[zen7 6k](cross/zen7%206k.md) | - | 5k | 995 | 220
-[zen7 7D](cross/zen7%207D.md) | - | 7D | 3024 | 217
-[zen7 7k](cross/zen7%207k.md) | - | 5k | 899 | 221
-[zen7 8D](cross/zen7%208D.md) | - | 8D | 3222 | 219
-[zen7 8k](cross/zen7%208k.md) | - | 6k | 758 | 218
-[zen7 9D](cross/zen7%209D.md) | - | 8D | 3350 | 218
-[zen7 9D+](cross/zen7%209D+.md) | - | 9D | 3473 | 221
-[zen7 9k](cross/zen7%209k.md) | - | 7k | 594 | 219
+[AmiGo1.8](cross/AmiGo1.8.md) | - | 11k | -266 | 356
+[DariushGTP3.1.5.7 lv1](cross/DariushGTP3.1.5.7%20lv1.md) | - | 7k | 554 | 247
+[DariushGTP3.1.5.7 lv7](cross/DariushGTP3.1.5.7%20lv7.md) | - | 5k | 834 | 248
+[Go169](cross/Go169.md) | - | 10k | -73 | 263
+[LZ 002 0.004k](cross/LZ%20002%200.004k.md) | 4x32 | 29k | -3983 | 470
+[LZ 002 0.01k](cross/LZ%20002%200.01k.md) | 4x32 | 29k | -3931 | 481
+[LZ 002 0.02k](cross/LZ%20002%200.02k.md) | 4x32 | 29k | -3895 | 471
+[LZ 002 0.04k](cross/LZ%20002%200.04k.md) | 4x32 | 29k | -3805 | 471
+[LZ 002 0.06k](cross/LZ%20002%200.06k.md) | 4x32 | 28k | -3726 | 476
+[LZ 002 0.1k](cross/LZ%20002%200.1k.md) | 4x32 | 28k | -3731 | 473
+[LZ 002 0.2k](cross/LZ%20002%200.2k.md) | 4x32 | 28k | -3649 | 478
+[LZ 003 0.004k](cross/LZ%20003%200.004k.md) | 4x32 | 29k | -3903 | 469
+[LZ 003 0.01k](cross/LZ%20003%200.01k.md) | 4x32 | 29k | -3834 | 474
+[LZ 003 0.02k](cross/LZ%20003%200.02k.md) | 4x32 | 28k | -3767 | 458
+[LZ 003 0.04k](cross/LZ%20003%200.04k.md) | 4x32 | 28k | -3634 | 455
+[LZ 003 0.06k](cross/LZ%20003%200.06k.md) | 4x32 | 27k | -3590 | 460
+[LZ 003 0.1k](cross/LZ%20003%200.1k.md) | 4x32 | 27k | -3582 | 475
+[LZ 003 0.2k](cross/LZ%20003%200.2k.md) | 4x32 | 27k | -3404 | 469
+[LZ 004 0.004k](cross/LZ%20004%200.004k.md) | 4x32 | 31k | -4233 | 440
+[LZ 004 0.01k](cross/LZ%20004%200.01k.md) | 4x32 | 30k | -4181 | 473
+[LZ 004 0.02k](cross/LZ%20004%200.02k.md) | 4x32 | 30k | -4015 | 476
+[LZ 004 0.04k](cross/LZ%20004%200.04k.md) | 4x32 | 29k | -3960 | 486
+[LZ 004 0.06k](cross/LZ%20004%200.06k.md) | 4x32 | 29k | -3885 | 535
+[LZ 004 0.1k](cross/LZ%20004%200.1k.md) | 4x32 | 28k | -3699 | 482
+[LZ 004 0.2k](cross/LZ%20004%200.2k.md) | 4x32 | 27k | -3576 | 480
+[LZ 005 0.02k](cross/LZ%20005%200.02k.md) | 5x64 | 28k | -3733 | 484
+[LZ 005 0.04k](cross/LZ%20005%200.04k.md) | 5x64 | 27k | -3579 | 461
+[LZ 005 0.06k](cross/LZ%20005%200.06k.md) | 5x64 | 27k | -3506 | 482
+[LZ 005 0.1k](cross/LZ%20005%200.1k.md) | 5x64 | 27k | -3462 | 475
+[LZ 005 0.2k](cross/LZ%20005%200.2k.md) | 5x64 | 26k | -3255 | 476
+[LZ 006 0.04k](cross/LZ%20006%200.04k.md) | 5x64 | 25k | -3092 | 463
+[LZ 006 0.06k](cross/LZ%20006%200.06k.md) | 5x64 | 24k | -2970 | 475
+[LZ 006 0.1k](cross/LZ%20006%200.1k.md) | 5x64 | 23k | -2781 | 477
+[LZ 006 0.2k](cross/LZ%20006%200.2k.md) | 5x64 | 22k | -2517 | 474
+[LZ 007 0.04k](cross/LZ%20007%200.04k.md) | 5x64 | 26k | -3340 | 469
+[LZ 007 0.06k](cross/LZ%20007%200.06k.md) | 5x64 | 25k | -3161 | 471
+[LZ 007 0.1k](cross/LZ%20007%200.1k.md) | 5x64 | 24k | -2932 | 469
+[LZ 007 0.2k](cross/LZ%20007%200.2k.md) | 5x64 | 23k | -2654 | 478
+[LZ 008 0.01k](cross/LZ%20008%200.01k.md) | 5x64 | 24k | -2948 | 475
+[LZ 008 0.02k](cross/LZ%20008%200.02k.md) | 5x64 | 23k | -2728 | 466
+[LZ 008 0.04k](cross/LZ%20008%200.04k.md) | 5x64 | 22k | -2555 | 484
+[LZ 008 0.06k](cross/LZ%20008%200.06k.md) | 5x64 | 22k | -2422 | 475
+[LZ 008 0.1k](cross/LZ%20008%200.1k.md) | 5x64 | 20k | -2171 | 470
+[LZ 008 0.2k](cross/LZ%20008%200.2k.md) | 5x64 | 18k | -1788 | 469
+[LZ 009 0.04k](cross/LZ%20009%200.04k.md) | 5x64 | 21k | -2269 | 470
+[LZ 009 0.06k](cross/LZ%20009%200.06k.md) | 5x64 | 20k | -2143 | 471
+[LZ 009 0.1k](cross/LZ%20009%200.1k.md) | 5x64 | 19k | -1864 | 474
+[LZ 009 0.2k](cross/LZ%20009%200.2k.md) | 5x64 | 16k | -1399 | 450
+[LZ 010 0.06k](cross/LZ%20010%200.06k.md) | 5x64 | 18k | -1617 | 470
+[LZ 010 0.1k](cross/LZ%20010%200.1k.md) | 5x64 | 15k | -1189 | 378
+[LZ 011 0.1k](cross/LZ%20011%200.1k.md) | 5x64 | 15k | -1124 | 381
+[LZ 012 0.1k](cross/LZ%20012%200.1k.md) | 5x64 | 13k | -695 | 371
+[LZ 013 0.1k](cross/LZ%20013%200.1k.md) | 5x64 | 13k | -651 | 375
+[LZ 014 0.1k](cross/LZ%20014%200.1k.md) | 5x64 | 11k | -308 | 358
+[LZ 015 0.1k](cross/LZ%20015%200.1k.md) | 5x64 | 10k | -132 | 252
+[LZ 016 0.1k](cross/LZ%20016%200.1k.md) | 5x64 | 10k | -8 | 251
+[LZ 017 0.1k](cross/LZ%20017%200.1k.md) | 5x64 | 9k | 127 | 243
+[LZ 018 0.1k](cross/LZ%20018%200.1k.md) | 5x64 | 8k | 260 | 240
+[LZ 019 0.1k](cross/LZ%20019%200.1k.md) | 5x64 | 8k | 371 | 245
+[LZ 020 0.1k](cross/LZ%20020%200.1k.md) | 5x64 | 8k | 370 | 241
+[LZ 021](cross/LZ%20021.md) | 5x64 | 6k | 637 | 246
+[LZ 021 0.1k](cross/LZ%20021%200.1k.md) | 5x64 | 8k | 379 | 245
+[LZ 026](cross/LZ%20026.md) | 5x64 | 6k | 775 | 245
+[LZ 031](cross/LZ%20031.md) | 5x64 | 5k | 938 | 247
+[LZ 033](cross/LZ%20033.md) | 5x64 | 4k | 1073 | 244
+[LZ 036](cross/LZ%20036.md) | 5x64 | 3k | 1244 | 251
+[LZ 038](cross/LZ%20038.md) | 5x64 | 2k | 1444 | 243
+[LZ 039](cross/LZ%20039.md) | 5x64 | 2k | 1406 | 243
+[LZ 041](cross/LZ%20041.md) | 5x64 | 2k | 1544 | 244
+[LZ 043](cross/LZ%20043.md) | 5x64 | 1k | 1669 | 246
+[LZ 046](cross/LZ%20046.md) | 5x64 | 1D | 1869 | 244
+[LZ 051](cross/LZ%20051.md) | 5x64 | 1D | 1975 | 247
+[LZ 057](cross/LZ%20057.md) | 5x64 | 2D | 2152 | 241
+[LZ 058](cross/LZ%20058.md) | 6x128 | 3D | 2233 | 241
+[LZ 058 0.1k](cross/LZ%20058%200.1k.md) | 6x128 | 1D | 1902 | 255
+[LZ 062](cross/LZ%20062.md) | 6x128 | 4D | 2437 | 249
+[LZ 066](cross/LZ%20066.md) | 6x128 | 4D | 2443 | 245
+[LZ 071](cross/LZ%20071.md) | 6x128 | 5D | 2607 | 243
+[LZ 076](cross/LZ%20076.md) | 6x128 | 5D | 2698 | 243
+[LZ 081](cross/LZ%20081.md) | 6x128 | 5D | 2750 | 242
+[LZ 084](cross/LZ%20084.md) | 6x128 | 5D | 2794 | 243
+[LZ 091](cross/LZ%20091.md) | 6x128 | 6D | 2910 | 241
+[LZ 092](cross/LZ%20092.md) | 10x128 | 7D | 3097 | 239
+[LZ 095](cross/LZ%20095.md) | 10x128 | 7D | 3191 | 250
+[LZ 098](cross/LZ%20098.md) | 10x128 | 7D | 3179 | 237
+[LZ 102](cross/LZ%20102.md) | 10x128 | 8D | 3292 | 250
+[LZ 105](cross/LZ%20105.md) | 10x128 | 8D | 3313 | 251
+[LZ 108](cross/LZ%20108.md) | 10x128 | 8D | 3388 | 242
+[LZ 111](cross/LZ%20111.md) | 10x128 | 8D | 3399 | 204
+[LZ 116](cross/LZ%20116.md) | 10x128 | 9D | 3471 | 225
+[LZ 117](cross/LZ%20117.md) | 15x192 | 10D | 3796 | 252
+[LZ 117 0.1k](cross/LZ%20117%200.1k.md) | 15x192 | 7D | 3106 | 242
+[LZ 117 0.4k](cross/LZ%20117%200.4k.md) | 15x192 | 9D | 3441 | 241
+[LZ 117 0.8k](cross/LZ%20117%200.8k.md) | 15x192 | 9D | 3580 | 206
+[LZ 117 1.2k](cross/LZ%20117%201.2k.md) | 15x192 | 10D | 3707 | 225
+[LZ 122](cross/LZ%20122.md) | 15x192 | 11D | 3892 | 227
+[LZ 127](cross/LZ%20127.md) | 15x192 | 11D | 3977 | 248
+[LZ 128](cross/LZ%20128.md) | 15x192 | 11D | 3998 | 244
+[LZ 131](cross/LZ%20131.md) | 15x192 | 12D | 4045 | 200
+[LZ 135](cross/LZ%20135.md) | 15x192 | 12D | 4056 | 197
+[LZ 139](cross/LZ%20139.md) | 15x192 | 12D | 4110 | 200
+[LZ 143](cross/LZ%20143.md) | 15x192 | 12D | 4155 | 199
+[LZ 147](cross/LZ%20147.md) | 15x192 | 12D | 4182 | 199
+[LZ 151](cross/LZ%20151.md) | 15x192 | 13D | 4230 | 200
+[LZ 154](cross/LZ%20154.md) | 15x192 | 13D | 4272 | 200
+[LZ 157](cross/LZ%20157.md) | 15x192 | 13D | 4324 | 199
+[LZ 157 3.2k](cross/LZ%20157%203.2k.md) | 15x192 | 14D | 4460 | 202
+[LZ 165](cross/LZ%20165.md) | 20x256 | 13D | 4346 | 198
+[LZ 173](cross/LZ%20173.md) | 20x256 | 13D | 4344 | 199
+[LZ 174](cross/LZ%20174.md) | 40x256 | 14D | 4481 | 202
+[LZ 182](cross/LZ%20182.md) | 40x256 | 14D | 4508 | 200
+[LZ 190](cross/LZ%20190.md) | 40x256 | 14D | 4526 | 199
+[LZ 193](cross/LZ%20193.md) | 40x256 | 14D | 4528 | 199
+[LZ 195](cross/LZ%20195.md) | 40x256 | 14D | 4569 | 201
+[LZ 196](cross/LZ%20196.md) | 40x256 | 14D | 4583 | 200
+[LZ 198](cross/LZ%20198.md) | 40x256 | 15D | 4646 | 199
+[LZ 200](cross/LZ%20200.md) | 40x256 | 15D | 4683 | 198
+[LZ 202](cross/LZ%20202.md) | 40x256 | 15D | 4657 | 198
+[LZ 6b2h](cross/LZ%206b2h.md) | 6x128 | 6D | 2858 | 240
+[LZ ELF v0](cross/LZ%20ELF%20v0.md) | 20x224 | 14D | 4512 | 200
+[LZ ELF v0 3.2k](cross/LZ%20ELF%20v0%203.2k.md) | 20x224 | 14D | 4580 | 206
+[LZ ELF v1](cross/LZ%20ELF%20v1.md) | 20x224 | 14D | 4585 | 216
+[LZ ELF v1 3.2k](cross/LZ%20ELF%20v1%203.2k.md) | 20x224 | 15D | 4674 | 208
+[LZ LM 10BE08](cross/LZ%20LM%2010BE08.md) | 10x128 | 9D | 3477 | 235
+[LZ LM 15BGX37](cross/LZ%20LM%2015BGX37.md) | 15x192 | 13D | 4264 | 202
+[LZ LM 15BGX5B](cross/LZ%20LM%2015BGX5B.md) | 15x192 | 14D | 4431 | 199
+[LZ LM 15BGX78](cross/LZ%20LM%2015BGX78.md) | 15x192 | 14D | 4428 | 199
+[LZ LM 15BGX78 3.2k](cross/LZ%20LM%2015BGX78%203.2k.md) | 15x192 | 14D | 4554 | 202
+[LZ LM 15BGX88](cross/LZ%20LM%2015BGX88.md) | 15x192 | 14D | 4419 | 198
+[LZ LM 15BGX89](cross/LZ%20LM%2015BGX89.md) | 15x192 | 14D | 4444 | 199
+[LZ LM 15BGX97](cross/LZ%20LM%2015BGX97.md) | 15x192 | 13D | 4368 | 200
+[LZ LM 15BGXA5](cross/LZ%20LM%2015BGXA5.md) | 15x192 | 12D | 4159 | 199
+[LZ LM 15BGXAA](cross/LZ%20LM%2015BGXAA.md) | 15x192 | 12D | 4067 | 199
+[LZ ManKit Pong 10BF](cross/LZ%20ManKit%20Pong%2010BF.md) | 10x128 | 10D | 3788 | 253
+[LZ PhoenixGo v1](cross/LZ%20PhoenixGo%20v1.md) | 19x256 | 12D | 4119 | 199
+[LZ S05B064F-C77779D0](cross/LZ%20S05B064F-C77779D0.md) | 5x64 | 5D | 2657 | 244
+[LZ ZQ F1](cross/LZ%20ZQ%20F1.md) | 5x64 | 5D | 2727 | 244
+[LZ ZQ G5](cross/LZ%20ZQ%20G5.md) | 15x192 | 14D | 4446 | 199
+[LZ ZQ X2](cross/LZ%20ZQ%20X2.md) | 15x192 | 13D | 4316 | 202
+[LZ ZQ X4](cross/LZ%20ZQ%20X4.md) | 15x192 | 13D | 4369 | 199
+[LZ ZQ elf-2](cross/LZ%20ZQ%20elf-2.md) | 20x224 | 15D | 4601 | 206
+[LZ ZQ elf-5](cross/LZ%20ZQ%20elf-5.md) | 20x224 | 14D | 4543 | 201
+[LZ ZQ i8](cross/LZ%20ZQ%20i8.md) | 10x128 | 9D | 3468 | 238
+[LZ bjiyxo 92297ff2](cross/LZ%20bjiyxo%2092297ff2.md) | 15x192 | 14D | 4404 | 200
+[LZ bjiyxo f438268e](cross/LZ%20bjiyxo%20f438268e.md) | 15x192 | 14D | 4434 | 200
+[LZ minigo 000199](cross/LZ%20minigo%20000199.md) | 19x256 | 14D | 4570 | 200
+[Leela 0.11 0.1k](cross/Leela%200.11%200.1k.md) | - | 1D | 1933 | 247
+[Leela 0.11 0.5k](cross/Leela%200.11%200.5k.md) | - | 2D | 2178 | 240
+[Leela 0.11 1.0k](cross/Leela%200.11%201.0k.md) | - | 4D | 2429 | 248
+[Leela 0.11 1.6k](cross/Leela%200.11%201.6k.md) | - | 4D | 2573 | 242
+[Leela 0.11 6.4k](cross/Leela%200.11%206.4k.md) | - | 5D | 2770 | 247
+[MoGo release3 1k](cross/MoGo%20release3%201k.md) | - | 6k | 715 | 247
+[RN4.32 0.1k](cross/RN4.32%200.1k.md) | - | 6k | 681 | 224
+[RN4.32 0.2k](cross/RN4.32%200.2k.md) | - | 5k | 969 | 225
+[RN4.32 0.3k](cross/RN4.32%200.3k.md) | - | 3k | 1375 | 230
+[RN4.32 0.4k](cross/RN4.32%200.4k.md) | - | 1k | 1630 | 231
+[RN4.32 0.8k](cross/RN4.32%200.8k.md) | - | 1D | 1842 | 226
+[RN4.32 1.6k](cross/RN4.32%201.6k.md) | - | 1D | 1949 | 225
+[aya 6.34](cross/aya%206.34.md) | - | 6k | 626 | 244
+[fuego 1.1 1M](cross/fuego%201.1%201M.md) | - | 4k | 1136 | 248
+[fuego 1.1 5M](cross/fuego%201.1%205M.md) | - | 2k | 1401 | 247
+[gnugo 3.8 lv1](cross/gnugo%203.8%20lv1.md) | - | 4k | 1164 | 245
+[gnugo 3.8 lvX](cross/gnugo%203.8%20lvX.md) | - | 4k | 1132 | 242
+[pachi 12.20 1k](cross/pachi%2012.20%201k.md) | - | 1k | 1780 | 243
+[pachi 12.20 3k](cross/pachi%2012.20%203k.md) | - | 1D | 1918 | 246
+[pachi 12.20 nodcnn 1k](cross/pachi%2012.20%20nodcnn%201k.md) | - | 3k | 1364 | 245
+[pachi 12.20 nodcnn 3k](cross/pachi%2012.20%20nodcnn%203k.md) | - | 2k | 1591 | 238
+[pachi 12.20 nodcnn 5k](cross/pachi%2012.20%20nodcnn%205k.md) | - | 1k | 1727 | 242
+[pachi 1k](cross/pachi%201k.md) | - | 1k | 1765 | 241
+[pachi 3k](cross/pachi%203k.md) | - | 1D | 1927 | 241
+[pachi nodcnn 1k](cross/pachi%20nodcnn%201k.md) | - | 3k | 1318 | 238
+[pachi nodcnn 3k](cross/pachi%20nodcnn%203k.md) | - | 2k | 1534 | 245
+[pachi nodcnn 5k](cross/pachi%20nodcnn%205k.md) | - | 1k | 1637 | 242
+[zen6 1D](cross/zen6%201D.md) | - | 1k | 1735 | 243
+[zen6 1D+](cross/zen6%201D+.md) | - | 1k | 1782 | 243
+[zen6 1D-](cross/zen6%201D-.md) | - | 1k | 1606 | 248
+[zen6 1k](cross/zen6%201k.md) | - | 2k | 1460 | 239
+[zen6 1k+](cross/zen6%201k+.md) | - | 2k | 1549 | 242
+[zen6 2D](cross/zen6%202D.md) | - | 1D | 1893 | 243
+[zen6 2k](cross/zen6%202k.md) | - | 3k | 1297 | 248
+[zen6 3D](cross/zen6%203D.md) | - | 1D | 1953 | 250
+[zen6 3D+](cross/zen6%203D+.md) | - | 2D | 2034 | 246
+[zen6 3k](cross/zen6%203k.md) | - | 3k | 1228 | 244
+[zen6 4D](cross/zen6%204D.md) | - | 2D | 2173 | 242
+[zen6 4k](cross/zen6%204k.md) | - | 4k | 1121 | 242
+[zen6 5D](cross/zen6%205D.md) | - | 3D | 2321 | 246
+[zen6 5k](cross/zen6%205k.md) | - | 4k | 1097 | 242
+[zen6 6D](cross/zen6%206D.md) | - | 4D | 2503 | 242
+[zen6 6k](cross/zen6%206k.md) | - | 4k | 1007 | 243
+[zen6 7D](cross/zen6%207D.md) | - | 5D | 2679 | 248
+[zen6 7k](cross/zen6%207k.md) | - | 4k | 1001 | 241
+[zen6 8k](cross/zen6%208k.md) | - | 5k | 870 | 246
+[zen6 9k](cross/zen6%209k.md) | - | 6k | 773 | 244
+[zen7 10k](cross/zen7%2010k.md) | - | 7k | 563 | 244
+[zen7 11k](cross/zen7%2011k.md) | - | 7k | 527 | 249
+[zen7 12k](cross/zen7%2012k.md) | - | 8k | 352 | 244
+[zen7 13k](cross/zen7%2013k.md) | - | 8k | 245 | 245
+[zen7 1D](cross/zen7%201D.md) | - | 1D | 1800 | 243
+[zen7 1k](cross/zen7%201k.md) | - | 1k | 1642 | 245
+[zen7 2D](cross/zen7%202D.md) | - | 1D | 1883 | 240
+[zen7 2k](cross/zen7%202k.md) | - | 2k | 1584 | 242
+[zen7 3D](cross/zen7%203D.md) | - | 2D | 2182 | 245
+[zen7 3k](cross/zen7%203k.md) | - | 3k | 1345 | 244
+[zen7 4D](cross/zen7%204D.md) | - | 3D | 2368 | 244
+[zen7 4k](cross/zen7%204k.md) | - | 3k | 1286 | 245
+[zen7 5D](cross/zen7%205D.md) | - | 4D | 2525 | 244
+[zen7 5k](cross/zen7%205k.md) | - | 3k | 1244 | 241
+[zen7 6D](cross/zen7%206D.md) | - | 5D | 2793 | 243
+[zen7 6D+](cross/zen7%206D+.md) | - | 6D | 2868 | 244
+[zen7 6D-](cross/zen7%206D-.md) | - | 5D | 2689 | 247
+[zen7 6k](cross/zen7%206k.md) | - | 4k | 1010 | 246
+[zen7 7D](cross/zen7%207D.md) | - | 7D | 3016 | 240
+[zen7 7k](cross/zen7%207k.md) | - | 5k | 903 | 248
+[zen7 8D](cross/zen7%208D.md) | - | 8D | 3211 | 251
+[zen7 8k](cross/zen7%208k.md) | - | 6k | 750 | 243
+[zen7 9D](cross/zen7%209D.md) | - | 8D | 3357 | 250
+[zen7 9D+](cross/zen7%209D+.md) | - | 9D | 3494 | 243
+[zen7 9k](cross/zen7%209k.md) | - | 7k | 597 | 245
