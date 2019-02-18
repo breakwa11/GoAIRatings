@@ -124,13 +124,17 @@ LZ xxx 0.01k
 
 #### LeelaZero with bjiyxo network ####
 
-LZ bjiyxo 92297ff2 (192x15blocks)  
+LZ bjiyxo 15b-195-184k quantized (192x15blocks)  
 `-p1600 -g -t1 -w 92297ff22dfa781bd02def6cadafdf7d69e9546300a913faf19e6164b895ed39.gz --noponder`  
 download: [here](https://zero.sjeng.org/networks/92297ff22dfa781bd02def6cadafdf7d69e9546300a913faf19e6164b895ed39.gz)
 
-LZ bjiyxo f438268e (192x15blocks)  
+LZ bjiyxo 15b-199-96k quantized (192x15blocks)  
 `-p1600 -g -t1 -w f438268ef88e083aaf7a08fba885552818abc08cd0aefce9671954a8df3cf707.gz --noponder`  
 download: [here](https://zero.sjeng.org/networks/f438268ef88e083aaf7a08fba885552818abc08cd0aefce9671954a8df3cf707.gz)
+
+LZ bjiyxo 15b-199-240k quantized (192x15blocks)  
+`-p1600 -g -t1 -w 83f1bb325920fc1c4866672f5ddd4a4364f3e0f1557fdd6115a6e2d8142d2563.gz --noponder`  
+download: [here](https://zero.sjeng.org/networks/83f1bb325920fc1c4866672f5ddd4a4364f3e0f1557fdd6115a6e2d8142d2563.gz)
 
 #### LeelaZero with ELF OpenGo network ####
 
@@ -139,6 +143,9 @@ LZ ELF v0 (224x20blocks)
 
 LZ ELF v1 (224x20blocks)  
 `-p1600 -g -t1 -w elf_converted_weights_d13c4099.txt --noponder`
+
+LZ ELF v2 (256x20blocks)  
+`-p1600 -g -t1 -w elf_converted_weights_05dbca15.txt --noponder`
 
 LZ ELF v0 3.2k (224x20blocks)  
 `-p3200 -g -t1 -w elf_converted_weights_62b5417b.txt --noponder`
@@ -149,6 +156,8 @@ LZ ELF v1 3.2k (224x20blocks)
 ELF v0: [download](https://zero.sjeng.org/networks/62b5417b64c46976795d10a6741801f15f857e5029681a42d02c9852097df4b9.gz)
 
 ELF v1: [download](https://zero.sjeng.org/networks/d13c40993740cb77d85c838b82c08cc9c3f0fbc7d8c3761366e5d59e8f371cbd.gz)
+
+ELF v2: [download](https://zero.sjeng.org/networks/05dbca157002b9fd618145d22803beae0f7e4015af48ac50f246b9316e315544.gz)
 
 #### LeelaZero with Leela Master network ####
 
@@ -174,8 +183,11 @@ Leela Master networks from [https://github.com/pangafu/LeelaMasterWeight](https:
 
 #### LeelaZero with minigo network ####
 
-LZ minigo 000199 (256x15blocks)  
-`-p1600 -g -t1 -w 000199.gz --noponder`
+LZ minigo v15 000939 (256x19blocks)  
+`-p1600 -g -t1 -w v15_000939.gz --noponder`
+
+LZ minigo v15 000990 (256x19blocks)  
+`-p1600 -g -t1 -w v15_000990.gz --noponder`
 
 #### LeelaZero with ZQ network ####
 
