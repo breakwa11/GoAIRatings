@@ -179,6 +179,15 @@ LZ LM 15BGX89 (192x15blocks,GX89)
 LZ LM 15BGX97 (192x15blocks,GX97)  
 `-p1600 -g -t1 -w LeelaMaster_GX97.txt --noponder`
 
+LZ LM 30BOZ02 0.1k (256x30blocks,OZ02)  
+`-p100 -g -t1 -w LeelaMaster_OZ02.txt --noponder`
+
+LZ LM 30BOZ04 0.1k (256x30blocks,OZ04)  
+`-p100 -g -t1 -w LeelaMaster_OZ04.txt --noponder`
+
+LZ LM 30BOZ06 0.1k (256x30blocks,OZ06)  
+`-p100 -g -t1 -w LeelaMaster_OZ06.txt --noponder`
+
 Leela Master networks from [https://github.com/pangafu/LeelaMasterWeight](https://github.com/pangafu/LeelaMasterWeight)
 
 #### LeelaZero with minigo network ####
@@ -188,6 +197,9 @@ LZ minigo v15 000939 (256x19blocks)
 
 LZ minigo v15 000990 (256x19blocks)  
 `-p1600 -g -t1 -w v15_000990.gz --noponder`
+
+LZ minigo v16 001144 (256x39blocks)  
+`-p1600 -g -t1 -w v16_001144.gz --noponder`
 
 #### LeelaZero with ZQ network ####
 
