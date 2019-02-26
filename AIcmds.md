@@ -153,6 +153,9 @@ LZ ELF v0 3.2k (224x20blocks)
 LZ ELF v1 3.2k (224x20blocks)  
 `-p3200 -g -t1 -w elf_converted_weights_d13c4099.txt --noponder`
 
+LZ ELF v2 3.2k (256x20blocks)  
+`-p3200 -g -t1 -w elf_converted_weights_05dbca15.txt --noponder`
+
 ELF v0: [download](https://zero.sjeng.org/networks/62b5417b64c46976795d10a6741801f15f857e5029681a42d02c9852097df4b9.gz)
 
 ELF v1: [download](https://zero.sjeng.org/networks/d13c40993740cb77d85c838b82c08cc9c3f0fbc7d8c3761366e5d59e8f371cbd.gz)
