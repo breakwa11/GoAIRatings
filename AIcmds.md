@@ -122,6 +122,14 @@ LZ xxx 0.02k
 LZ xxx 0.01k  
 `-p10 -r1 -g -t1 -w xxxx.gz --noponder`
 
+## Leela Zero 0.17 ##
+
+LZ17 xxx  
+`-p1600 -g -t1 -w xxxx.gz --noponder`
+
+LZ17 xxx 3.2k  
+`-p3200 -g -t1 -w xxxx.gz --noponder`
+
 #### LeelaZero with bjiyxo network ####
 
 LZ bjiyxo 15b-195-184k quantized (192x15blocks)  
