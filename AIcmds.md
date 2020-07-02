@@ -53,6 +53,16 @@ gnugo 3.8 lv1
 gnugo 3.8 lvX  
 `--mode gtp --chinese-rules --level 10`
 
+## KataGo ##
+
+```
+maxVisits = 1200
+numSearchThreads = 1
+nnCacheSizePowerOfTwo = 18
+```
+
+`gtp -model xxx.bin.gz -config gtp_1200.cfg`
+
 ## Leela 0.11 ##
 Leela 0.11 0.1k  
 `-p100 -g -t1 --noponder`
@@ -319,10 +329,10 @@ Github: [https://github.com/zakki/Ray](https://github.com/zakki/Ray)
 
 ## zen6 (gtp4zen) ##
 
-zen6 8k?  
+zen6 9k  
 `-z6 -r3 -t1 -s100 -n0 -o0.1 -p0.1`
 
-zen6 7K?  
+zen6 8K  
 `-z6 -r3 -t1 -s200 -n0 -o0.1 -p0.3`
 
 zen6 7K  
